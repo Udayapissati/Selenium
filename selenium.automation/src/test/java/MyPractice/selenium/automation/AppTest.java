@@ -1,8 +1,11 @@
 package MyPractice.selenium.automation;
 
 import junit.framework.Test;
+
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
+
+// comments added
 
 /**
  * Unit test for simple App.
